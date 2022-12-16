@@ -82,6 +82,8 @@ The scaffold project structure may vary based on the front end framework being u
 style, package, configuration, and other project files
 
 ```
+![image](https://user-images.githubusercontent.com/109158340/208193420-ecbf3f3a-bd2c-4e41-a3a7-b6522908c49a.png)
+
 ![image](https://user-images.githubusercontent.com/109158340/208192486-7348a1d4-dadd-463f-8291-fba48a57f65f.png)
 
 ## Contributing
