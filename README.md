@@ -17,8 +17,7 @@ The responsive version for wallets and wallet adapter may not function or work a
 
 ```bash
 npm install
-# or
-yarn install
+
 ```
 
 ## Build and Run
@@ -27,8 +26,7 @@ Next, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -75,6 +73,6 @@ A Solana Components Repo will be released in the near future to house a common c
 ![image](https://user-images.githubusercontent.com/109158340/208253491-c7deb7a9-d41e-4f67-9b23-2d3bdfc6405c.png)
 
 
-## Deploy on Vercel
+
 
 
