@@ -55,7 +55,8 @@ A Solana Components Repo will be released in the near future to house a common c
 ![image](https://user-images.githubusercontent.com/109158340/208193420-ecbf3f3a-bd2c-4e41-a3a7-b6522908c49a.png)
 ![image](https://user-images.githubusercontent.com/109158340/208192486-7348a1d4-dadd-463f-8291-fba48a57f65f.png)
 ---
-### You can connect with your wallet address to display your Nfts.
+### $\textcolor{gray}{ You\ can\ connect\ with\ your\ wallet\ address\ to\ display\ your\ Nfts.}$ 
+
 ![image](https://user-images.githubusercontent.com/109158340/208232611-667b1cc4-6492-49cd-8053-ca7e4947cfa8.png)
 
 ### Find out your Metadata on console
