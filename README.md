@@ -59,7 +59,7 @@ A Solana Components Repo will be released in the near future to house a common c
 
 ![image](https://user-images.githubusercontent.com/109158340/208232611-667b1cc4-6492-49cd-8053-ca7e4947cfa8.png)
 
-### Find out your Metadata on console
+### $\textcolor{gray}{  Find\ out\ your\ Metadata\ on\ console}$
 ![image](https://user-images.githubusercontent.com/109158340/208253491-c7deb7a9-d41e-4f67-9b23-2d3bdfc6405c.png)
 
 
