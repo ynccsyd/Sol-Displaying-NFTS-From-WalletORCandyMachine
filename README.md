@@ -47,17 +47,17 @@ Notifications (optional): Example of using a notification system
 
 ```
 A Solana Components Repo will be released in the near future to house a common components library.
-
-### $\textcolor{gray}{ Select\ your\ wallet\ and\ connect\ with\ your\ wallet\ address}$ 
-
+* ## $\textcolor{purple}{ Choose\ your\ wallet\ and\ connect\ with\ your\ wallet\ address. }$ 
+  
 ![image](https://user-images.githubusercontent.com/109158340/208193420-ecbf3f3a-bd2c-4e41-a3a7-b6522908c49a.png)
 ![image](https://user-images.githubusercontent.com/109158340/208192486-7348a1d4-dadd-463f-8291-fba48a57f65f.png)
 ---
-### $\textcolor{gray}{ You\ can\ connect\ with\ your\ wallet\ address\ to\ display\ your\ Nfts.}$ 
+
+* ## $\textcolor{purple}{ You\ can\ connect\ with\ your\ wallet\ address\ to\ display\ your\ Nfts.}$ 
 
 ![image](https://user-images.githubusercontent.com/109158340/208232611-667b1cc4-6492-49cd-8053-ca7e4947cfa8.png)
 
-### $\textcolor{gray}{  Find\ out\ your\ Metadata\ on\ console}$
+* ## $\textcolor{purple}{  Find\ out\ your\ Metadata\ on\ console}$
 ![image](https://user-images.githubusercontent.com/109158340/208253491-c7deb7a9-d41e-4f67-9b23-2d3bdfc6405c.png)
 
 
